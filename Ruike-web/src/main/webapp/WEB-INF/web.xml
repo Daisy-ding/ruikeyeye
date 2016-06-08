@@ -15,10 +15,6 @@
 		<param-value>classpath:applicationContext.xml</param-value>
 	</context-param>
 
-	<listener>
-		<listener-class>com.ruike.tool.DubboVersionListener</listener-class>
-	</listener>
-
 	<!-- 配置spring启动listener入口 -->
 	<listener>
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
