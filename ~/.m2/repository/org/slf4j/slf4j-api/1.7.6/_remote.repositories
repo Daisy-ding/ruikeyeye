@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jun 08 15:49:57 CST 2016
+slf4j-api-1.7.6.jar>nexus=
+slf4j-api-1.7.6.jar>=
+slf4j-api-1.7.6.pom>nexus=
