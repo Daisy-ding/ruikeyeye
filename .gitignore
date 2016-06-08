@@ -1,1 +1,15 @@
-/*/target/*
+
+*.idea
+/target
+/*/.settings
+/*/.classpath
+/*/.project
+/*/target
+/*/.settings
+/*/.classpath
+/*/.project
+/*/logs
+/.idea/
+/*/*.iml
+/*/bin/*
+
